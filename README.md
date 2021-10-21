@@ -28,3 +28,4 @@ Agile is a family of Methodologies and Scrum is part of them:
   <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Agile_Address.JPG" width="700" title="Agile_Address">
 </p>
 
+The Scrum framework focuses on developing, delivering, and sustaining complex products, It is designed for teams of ten or fewer members, who break their work into goals that can be completed within time-boxed iterations, called <b> sprints </b>, no longer than one month and most commonly two weeks. The Scrum Team track progress in 15-minute time-boxed daily meetings, called <b> daily scrums </b>. At the end of the sprint, the team holds sprint review, to demonstrate the work done, and sprint retrospective to improve continuously.
