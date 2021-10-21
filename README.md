@@ -14,3 +14,6 @@ This repository serves as a fast summary of the Scrum Method
 <p align="center">
   <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Course5_6.JPG" width="500" title="Course5_6">
 </p>
+
+## Agile Concepts ##
+Agile is a family of Methodologies and Scrum is part of them:
