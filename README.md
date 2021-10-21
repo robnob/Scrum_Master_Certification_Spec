@@ -38,6 +38,6 @@ The <b> Agile Manifesto </b> consists of values and principles: https://agileman
 </p>
 
 <p align="center">
-  <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Agile_Principles.JPG" width="600" title="Agile_Principles">
+  <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Agile_Principles.JPG" width="800" title="Agile_Principles">
 </p>
 
