@@ -34,6 +34,10 @@ Agile is a higly adaptive, role based and collaborative solution development met
 
 The <b> Agile Manifesto </b> consists of values and principles: https://agilemanifesto.org/
 <p align="center">
-  <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Agile_Manifesto.JPG" width="700" title="Agile_Manifesto">
+  <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Agile_Manifesto.JPG" width="400" title="Agile_Manifesto">
+</p>
+
+<p align="center">
+  <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Agile_Principles.JPG" width="600" title="Agile_Principles">
 </p>
 
