@@ -20,3 +20,8 @@ Agile is a family of Methodologies and Scrum is part of them:
 <p align="center">
   <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Scrum_in_Agile.JPG" width="500" title="Scrum_in_Agile">
 </p>
+
+<p align="center">
+  <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Agile_Address.JPG" width="700" title="Agile_Address">
+</p>
+
