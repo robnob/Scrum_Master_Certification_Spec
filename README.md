@@ -82,6 +82,12 @@ And principles: https://agilemanifesto.org/principles.html
 
 https://www.agilealliance.org/agile101/agile-glossary/
 
+* User Story: a description of an element of the solution that is to be built, the product's unit feature or functionality, written in the business language from the user perspective.
+* Backlog: a prioritized list of user stories, a listing of User Stories, to be built into the Product. Break-down of each user story.
+* Size: an estimate of the work to complete a user stroy in consistent unit accross the backlog.
+* Velocity: the size of work that the team(s) can accomplish in a single sprint.
+* Sprint: an iteration.
+
 
 
 
