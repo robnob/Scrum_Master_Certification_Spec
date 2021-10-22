@@ -42,3 +42,9 @@ And principles: https://agilemanifesto.org/principles.html
   <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Agile_Principles.JPG" width="800" title="Agile_Principles">
 </p>
 
+## Scrum Pillars ##
+<p align="center">
+  <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Scrum_Pillars.JPG" width="800" title="Scrum_Pillars">
+</p>
+
+
