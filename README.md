@@ -54,6 +54,12 @@ And principles: https://agilemanifesto.org/principles.html
   <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Scrum_Values.JPG" width="800" title="Scrum_Values">
 </p>
 
+### General Process ###
+<p align="center">
+  <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/General_Process.JPG" width="800" title="General_Process">
+</p>
+
+
 ### Roles ###
 * Product Owner (Backlog):
 * Scrum Master (Process):
