@@ -54,6 +54,24 @@ And principles: https://agilemanifesto.org/principles.html
   <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Scrum_Values.JPG" width="800" title="Scrum_Values">
 </p>
 
+### Roles ###
+* Product Owner:
+* Scrum Master:
+* Scrum Team:
+* Customer / Stakeholder:
+
+### Meetings ###
+* Daily Stand-ups
+* Sprint Review
+* Sprint Retrospective
+* Sprint Planning
+
+### Artiffacts ###
+* Planning, Dev, QA
+* Backlog (stories, defects)
+* Production (Builds, Tpubs)
+* Metrics
+
 ## Agile Terminology ##
 
 https://www.agilealliance.org/agile101/agile-glossary/
