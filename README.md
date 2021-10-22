@@ -54,5 +54,11 @@ And principles: https://agilemanifesto.org/principles.html
   <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Scrum_Values.JPG" width="800" title="Scrum_Values">
 </p>
 
+## Agile Terminology ##
+
+https://www.agilealliance.org/agile101/agile-glossary/
+
+
+
 
 
