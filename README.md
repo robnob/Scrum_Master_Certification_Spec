@@ -55,8 +55,8 @@ And principles: https://agilemanifesto.org/principles.html
 </p>
 
 ### Roles ###
-* Product Owner:
-* Scrum Master:
+* Product Owner (Backlog):
+* Scrum Master (Process):
 * Scrum Team:
 * Customer / Stakeholder:
 
