@@ -89,6 +89,9 @@ https://www.agilealliance.org/agile101/agile-glossary/
 * Sprint: an iteration.
 
 
-
+## Scrum Meetings Summary ##
+<p align="center">
+  <img src="https://github.com/robnob/Scrum_Master_Certification_Spec/blob/main/Scrum_meetings_summary.JPG" width="1000" title="Scrum_meetings_summary">
+</p>
 
 
